@@ -1,3 +1,3 @@
 # pythonProject_2
 
-Thi
+This is my Django_project_1
